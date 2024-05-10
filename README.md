@@ -1,4 +1,4 @@
-# evm-wallet-generator
+# EVM Wallet Generator
 
 Welcome to the Ethereum AUTO Wallet Generator, a simple script to effortlessly generate Ethereum wallets in bulk. No need to spend a lot of time creating multiple wallets manually – just follow the steps below!
 
